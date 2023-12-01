@@ -8,7 +8,7 @@ image:
   repository: dewandemo/argocd-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: cd1a6c7590cd13386243b61fe9f052d87a826e7e
+  tag: e2b73e648c64a127c3e4a63f9d0719eb9717f9eb
 
 imagePullSecrets: []
 nameOverride: ""
